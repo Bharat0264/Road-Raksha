@@ -166,7 +166,16 @@ Built with ❤️ to make Indian roads safer.
 ---
 Project Demo
 
+## 📸 Screenshots
+
+### 🖥️ Dashboard
 ![Dashboard](dashboard.png)
-![Login Page](login.png)
-![Maps](Maps.png)
-![Report Page](Report Page.png)
+
+### 🔐 Login Page
+![Login](login.png)
+
+### 🗺️ Maps
+![Maps](maps.png)
+
+### 📊 Report Page
+![Report](report.png)
