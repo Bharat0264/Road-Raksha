@@ -1,4 +1,4 @@
-# 🚧 RoadCare — Citizen Road Damage Reporting App
+# 🚧 RoadRaksha — Citizen Road Damage Reporting App
 
 A full-stack MERN application where citizens can report road damage with photo evidence, track resolution via ticket timeline, earn points & badges, and view a live damage map.
 
@@ -42,7 +42,7 @@ roadcare-app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/roadcare-app.git
+git clone https://github.com/Bharat0264/roadcare-app.git
 cd roadcare-app
 ```
 
