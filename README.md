@@ -168,14 +168,14 @@ Project Demo
 
 ## 📸 Screenshots
 
-### 🖥️ Dashboard
-![Dashboard](dashboard.png)
+## 📸 Screenshots
 
-### 🔐 Login Page
-![Login](login.png)
+<p align="center">
+  <img src="dashboard.png" width="45%">
+  <img src="login.png" width="45%">
+</p>
 
-### 🗺️ Maps
-![Maps](maps.png)
-
-### 📊 Report Page
-![Report](report.png)
+<p align="center">
+  <img src="maps.png" width="45%">
+  <img src="report.png" width="45%">
+</p>
