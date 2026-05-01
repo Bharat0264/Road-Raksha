@@ -168,14 +168,7 @@ Project Demo
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="dashboard.png" width="45%">
-  <img src="login.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="maps.png" width="45%">
-  <img src="report.png" width="45%">
-</p>
+![Dashboard](DASH%20BOARD.png)
+![Login](LOGIN%20PAGE.png)
+![Maps](MAPS.png)
+![Report](REPORT%20PAGE.png)
